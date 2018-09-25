@@ -5,6 +5,7 @@ body {
     color: #333;
 }
 
+//navbar main form
 .navbar {
     position: fixed;
     width: 100%;
@@ -42,6 +43,7 @@ body {
     background-color: red;
 }
 
+//dropdown text
 .dropdown-content {
     display: none;
     position: absolute;
@@ -73,6 +75,7 @@ body {
   height: 1500px; /* Used in this example to enable scrolling */
 }
 
+//horizontal line
 hr {
     border: 0;
     height: 2px;
